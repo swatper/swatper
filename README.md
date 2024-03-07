@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=White)
 <!--
 **swatper/swatper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sh010510)](https://solved.ac/sh010510)
