@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=White)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=white)
+
 <!--
 **swatper/swatper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
