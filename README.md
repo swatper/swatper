@@ -4,7 +4,7 @@
     <img src = "https://img.shields.io/badge/C%23-A566FF?style=flat&logo=csharp&logoColor=white">
     <img src = "https://img.shields.io/badge/JAVA-007396?style=flat&logo=OpenJDK&logoColor=white">
     <img src = "https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity">
-    <a href = "discordapp.com/users/381621213597794314"><img src = "https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=Discord&logoColor=white">
+    <img src = "https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=Discord&logoColor=white">
 </p>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sh010510)](https://solved.ac/sh010510)
