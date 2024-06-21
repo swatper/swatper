@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+<p align="center">
+    <img src = "https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=Cplusplus&logoColor=White">
+    <img src = "https://img.shields.io/badge/C%23-A566FF?style=flat&logo=csharp&logoColor=white">
+    <img src = "https://img.shields.io/badge/java-007396?style=flat&logo=OpenJDK&logoColor=white">
+    <img src = "https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity">
+    <a href = "discordapp.com/users/381621213597794314"><img src = "https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=Discord&logoColor=white">
+</p>
 <!--
 **swatper/swatper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sh010510)](https://solved.ac/sh010510)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=sh010510&theme=dark)](https://solved.ac/sh010510)
