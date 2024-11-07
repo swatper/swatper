@@ -8,7 +8,8 @@
 </p>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sh010510)](https://solved.ac/sh010510)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=sh010510&theme=dark)](https://solved.ac/sh010510)
+![Sang Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=swatper&show_icons=true&theme=tokyonight)  
+<!--[![mazandi profile](http://mazandi.herokuapp.com/api?handle=sh010510&theme=dark)](https://solved.ac/sh010510)-->
 
 <!--
 **swatper/swatper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
