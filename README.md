@@ -25,6 +25,7 @@
 </div>
 <div align="center">
     <a href ="https://discord.com/users/381621213597794314"><img src = "https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=Discord&logoColor=white"/> </a>
+    <a href ="mailto:sh010510@naver.com"> <img src = "https://img.shields.io/badge/Naver-03C75A.svg?style=flat&logo=Naver&logoColor=white"/> </a>
 </div>
 
 <!--[![mazandi profile](http://mazandi.herokuapp.com/api?handle=sh010510&theme=dark)](https://solved.ac/sh010510)-->
