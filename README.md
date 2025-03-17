@@ -10,9 +10,6 @@
 
 <div align="center">
     <h2>🥔Skills</h2>
-</div>
-
-<div align="center">
     <img src = "https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=Cplusplus&logoColor=White">
     <img src = "https://img.shields.io/badge/C%23-A566FF?style=flat&logo=csharp&logoColor=white">
     <img src = "https://img.shields.io/badge/JAVA-007396?style=flat&logo=OpenJDK&logoColor=white">
@@ -22,10 +19,9 @@
 
 <div align="center">
     <h2>📫Social</h2>
-</div>
-<div align="center">
-    <a href ="https://discord.com/users/381621213597794314"><img src = "https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=Discord&logoColor=white"/> </a>
-    <a href ="mailto:sh010510@naver.com"> <img src = "https://img.shields.io/badge/Naver-03C75A.svg?style=flat&logo=Naver&logoColor=white"/> </a>
+    <a href ="https://discord.com/users/381621213597794314"><img src = "https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=Discord&logoColor=white"/></a> 
+    <a href ="mailto:sh010510@naver.com"> <img src = "https://img.shields.io/badge/Naver-03C75A.svg?style=flat&logo=Naver&logoColor=white"/></a> 
+    <a href ="mailto:kg010511@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-FFFFFF.svg?style=flat&logo=Gmail&logoColor=Red"/></a>
 </div>
 
 <!--[![mazandi profile](http://mazandi.herokuapp.com/api?handle=sh010510&theme=dark)](https://solved.ac/sh010510)-->
