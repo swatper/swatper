@@ -15,6 +15,7 @@
     <img src = "https://img.shields.io/badge/JAVA-007396?style=flat&logo=OpenJDK&logoColor=white">
     <img src = "https://img.shields.io/badge/Unity-000000.svg?style=flat&logo=unity">
     <img src = "https://img.shields.io/badge/Oracle-FF0000?style=flat&logo=oracle&logoColor=white">
+    <img src = "https://img.shields.io/badge/Flutter-7BC7F3?style=flat&logo=flutter&logoColor=white">
 </div>
 
 <div align="center">
