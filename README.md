@@ -5,7 +5,7 @@
 <br>
 <div align="center">
     <a href = "https://solved.ac/sh010510"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=sh010510"/></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatper&langs_count=8&layout=compact&theme=tokyonight" width="350" height="170" style="object-fit: fill;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatper&langs_count=6&layout=compact&theme=tokyonight" width="350" height="170" style="object-fit: fill;"/>
 </div>
 
 <div align="center">
