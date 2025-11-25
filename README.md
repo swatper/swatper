@@ -1,11 +1,13 @@
 ## Hi there 👋
+<!--
 <div align="center">
     <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/sh010510" width="600" height="300"/></a>
 </div>
+-->
 <br>
 <div align="center">
     <a href = "https://solved.ac/sh010510"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=sh010510"/></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatper&langs_count=6&layout=compact&theme=tokyonight" width="350" height="170" style="object-fit: fill;"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swatper&langs_count=6&layout=compact&theme=tokyonight" width="350" height="170" style="object-fit: fill;"/>
 </div>
 
 <div align="center">
