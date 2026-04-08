@@ -20,9 +20,6 @@
 
 <div align="center">
     <h2>🔧 Tools</h2>
-    <img src = "https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=Cplusplus&logoColor=White">
-    <img src = "https://img.shields.io/badge/C%23-A566FF?style=flat&logo=csharp&logoColor=white">
-    <img src = "https://img.shields.io/badge/JAVA-007396?style=flat&logo=OpenJDK&logoColor=white">
     <img src = "https://img.shields.io/badge/Unity-000000.svg?style=flat&logo=unity">
     <img src = "https://img.shields.io/badge/Oracle-FF0000?style=flat&logo=Oracle&logoColor=white">
     <img src = "https://img.shields.io/badge/Flutter-7BC7F3?style=flat&logo=flutter&logoColor=white">
