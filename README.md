@@ -25,6 +25,7 @@
     <img src = "https://img.shields.io/badge/Flutter-7BC7F3?style=flat&logo=flutter&logoColor=white">
     <img src = "https://img.shields.io/badge/Xampp-EB813D?style=flat&logo=xampp&logoColor=white">
     <img src = "https://img.shields.io/badge/Aseprite-696969?style=flat&logo=Aseprite&logoColor=white">
+    <img src = "https://img.shields.io/badge/Figma-000000?style=flat&logo=Figma&logoColor=white">
 </div>
 
 <div align="center">
